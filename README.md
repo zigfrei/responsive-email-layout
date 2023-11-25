@@ -1,6 +1,6 @@
 # Responsive email layout
 Examples of adaptive layout of emails for mailing
 
-<p align="center">
-  <img src="images/1.png" width="768" title="maxGraph_lesson">
+<p align="left">
+  <img src="images/1.png" height="900" title="maxGraph_lesson">
 </p>
